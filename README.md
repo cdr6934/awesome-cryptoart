@@ -15,17 +15,20 @@ The following page collects and organizes links, guides, tutorials and inspirati
 
 ## Links 
 
+* [Art on Ethereum: a Beginner's Guide to Cryptoart Platforms](https://defiprime.com/cryptoart-on-ethereum)
 * [What is an NFT?](https://www.nytimes.com/2021/03/11/arts/design/what-is-an-nft.html)
 * [What is CryptoArt?](https://www.artnome.com/news/2018/1/14/what-is-cryptoart)
+* [Crypto Art Marketplaces and Platforms](https://www.cryptoartnet.com/cryptoart-sites/marketplaces-platforms/)
+* [Nyan Cat is being sold as a one-of-a-kind piece of crypto art](https://www.theverge.com/2021/2/18/22287956/nyan-cat-crypto-art-foundation-nft-sale-chris-torres)
 
 ## Mints
 
 | Site | Description | Currency |
 |---|---|---|
-|[Nifty Gateway](https://niftygateway.com/)|||
+|[Nifty Gateway](https://niftygateway.com/)||ETH|
 |[Foundation](https://niftygateway.com/)|Currently an invitation only curated NFT market||
 |[Hic Et Nunc](https://www.hicetnunc.xyz/)||Tezos|
-|[Artblocks.io](https://artblocks.io/)|A site specifically minting generative art / design platform|Tez|
+|[Artblocks.io](https://artblocks.io/)|A site specifically minting generative art / design platform|ETH|
 |[Superrare](https://superrare.co/)||ETH|
 |[Kalamint](https://kalamint.io/)||Tezos|
 |[ASYNC](https://async.art/)|Async Art is a new art movement built on the blockchain. Create, collect, and trade programmable art: digital paintings split into "Layers", which you can use to affect the overall image.|ETH|
@@ -42,6 +45,11 @@ The following page collects and organizes links, guides, tutorials and inspirati
 |[Makersplace](https://makersplace.com/)|Every digital creation available through MakersPlace is an authentic and truly unique digital creation, signed and issued by the creator — made possible by blockchain technology. Even if the digital creation is copied, it won't be the authentic and originally signed version.|ETH|
 |[Mintable](https://mintable.app/)||ETH|
 |[Mintbase](https://mintbase.io/)|One of the most powerful aspects of blockchain is that you can choose any wallet to store your digital assets on. Any Joe-schmow can create an app that can store art or tickets on, but it gets interesting when those assets can live and be transferred to any wallet created by others without the sources permission.|ETH|
+|[Portion](https://portion.io/)|Portion is the premier online marketplace connecting artists and collectors through Blockchain technology to easily sell, invest and own art and collectibles with complete transparency.|ETH|
+|[Rarible](https://rarible.com/)||ETH|
+|[Terra Virtua](https://terravirtua.io/)||ETH|
+|[Zora](https://zora.co/)||ETH|
+|[Artolin](https://artolin.org/)|ArtOlin is a platform where you can create rare digital tokens of creative work through blockchain technology. These tokens work as property titles that are indestructible, impossible to counterfeit, and can be exchanged in a free global market.|BTC|
 
 ## Secondary Markets 
 These sites are markets that are selling NFTs that have already been sold once to buyers after having been initially sold. 
