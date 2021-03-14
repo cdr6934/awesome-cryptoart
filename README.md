@@ -10,22 +10,28 @@ The following page collects and organizes links, guides, tutorials and inspirati
 - [Mints](#mints)
 - [Secondary Markets](#secondary_markets)
 - [Overviews and Tutorials](#overview_and_tutorials)
-- [Links](#links)
+
 
 
 ## Links 
 
+
+### About Cryptoart
 * [Art on Ethereum: a Beginner's Guide to Cryptoart Platforms](https://defiprime.com/cryptoart-on-ethereum)
 * [What is an NFT?](https://www.nytimes.com/2021/03/11/arts/design/what-is-an-nft.html)
 * [What is CryptoArt?](https://www.artnome.com/news/2018/1/14/what-is-cryptoart)
 * [Crypto Art Marketplaces and Platforms](https://www.cryptoartnet.com/cryptoart-sites/marketplaces-platforms/)
 * [Nyan Cat is being sold as a one-of-a-kind piece of crypto art](https://www.theverge.com/2021/2/18/22287956/nyan-cat-crypto-art-foundation-nft-sale-chris-torres)
 
+### Cryptoart and the Environment 
+* [Cryptoart Carbon Footprint](https://github.com/kylemcdonald/cryptoart-footprint)
+
+
 ## Mints
 
 | Site | Description | Currency |
 |---|---|---|
-|[Nifty Gateway](https://niftygateway.com/)||ETH|
+|[Nifty Gateway](https://niftygateway.com/)|Nifty Gateway is the premier marketplace for Nifties, which are digital items you can truly own. Digital Items have existed for a long time, but never like this.|ETH|
 |[Foundation](https://niftygateway.com/)|Currently an invitation only curated NFT market||
 |[Hic Et Nunc](https://www.hicetnunc.xyz/)||Tezos|
 |[Artblocks.io](https://artblocks.io/)|A site specifically minting generative art / design platform|ETH|
