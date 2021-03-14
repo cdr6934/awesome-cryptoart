@@ -27,6 +27,9 @@ The following page collects and organizes links, guides, tutorials and inspirati
 * [Cryptoart Carbon Footprint](https://github.com/kylemcdonald/cryptoart-footprint)
 
 
+### NFTs / Music 
+* [Can NFTs Change the Value of Music?](https://decrypt.co/61241/can-nfts-change-how-we-value-music)
+
 ## Mints
 
 | Site | Description | Currency |
