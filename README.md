@@ -33,7 +33,7 @@ The following page collects and organizes links, guides, tutorials and inspirati
 |---|---|---|
 |[Nifty Gateway](https://niftygateway.com/)|Nifty Gateway is the premier marketplace for Nifties, which are digital items you can truly own. Digital Items have existed for a long time, but never like this.|ETH|
 |[Foundation](https://niftygateway.com/)|Currently an invitation only curated NFT market||
-|[Hic Et Nunc](https://www.hicetnunc.xyz/)||Tezos|
+|[Hic Et Nunc](https://www.hicetnunc.xyz/)|he present decentralized application allows its users to manage decentralized digital assets, serving as a public smart contract infrastructure on Tezos Blockchain.|Tezos|
 |[Artblocks.io](https://artblocks.io/)|A site specifically minting generative art / design platform|ETH|
 |[Superrare](https://superrare.co/)||ETH|
 |[Kalamint](https://kalamint.io/)||Tezos|
