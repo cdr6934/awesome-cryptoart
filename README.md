@@ -25,6 +25,8 @@ The following page collects and organizes links, guides, tutorials and inspirati
 
 ### Cryptoart and the Environment 
 * [Cryptoart Carbon Footprint](https://github.com/kylemcdonald/cryptoart-footprint)
+* [NFTs and Crypto Art: The Sky is not Falling](https://sterlingcrispin.blogspot.com/2021/02/crypto-art-sky-is-not-falling.html)
+
 
 
 ### NFTs / Music 
